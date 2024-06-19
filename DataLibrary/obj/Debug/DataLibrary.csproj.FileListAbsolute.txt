@@ -1,0 +1,8 @@
+C:\Users\oscar\DOTNET-project\OscarBook\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\oscar\DOTNET-project\OscarBook\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\oscar\DOTNET-project\OscarBook\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\oscar\DOTNET-project\OscarBook\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\oscar\DOTNET-project\OscarBook\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\oscar\DOTNET-project\OscarBook\DataLibrary\obj\Debug\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\oscar\DOTNET-project\OscarBook\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\oscar\DOTNET-project\OscarBook\DataLibrary\obj\Debug\DataLibrary.pdb
